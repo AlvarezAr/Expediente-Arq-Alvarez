@@ -1,0 +1,7 @@
+ACTORES:
+Administrador:
+Gestionar productos, actualizar precios, controlar inventario, administrar usuarios y revisar reportes.
+Enc. Inventarios:
+Registrar entradas y salidas de productos, ajustar existencias y verificar el stock real de la tienda.
+Cajero:
+Registrar ventas de forma rápida, consultar stock disponible y emitir comprobantes de pago.
