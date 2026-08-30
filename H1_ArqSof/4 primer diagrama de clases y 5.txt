@@ -1,0 +1,14 @@
+4 primer diagrama de clases con atributos y relaciones
+Requerimiento:
+1. Una TIENDA DE TENIS vende productos con inventario limitado. 
+2. Cada venta Disminuye el Inventario.
+3. El cajero registra ventas con su detalle: se debe buscar categoria y avisar cuando un producto cruza el minimo
+
+En la cual se asignara un Usuario dependiendo el cargo que desempeña dentro la entidad.
+
+5 tus dos atributos de calidad criticos con 2 o 3 lineas de defensa.
+
+1.Seguridad
+2.Disponibilidad
+
+La seguridad es fundamental porque el sistema maneja información de usuarios, ventas e inventario. Se debe evitar el acceso no autorizado y proteger los datos almacenados. La disponibilidad es importante porque las ventas y consultas de stock deben realizarse en cualquier momento durante el horario de atención de la tienda.
