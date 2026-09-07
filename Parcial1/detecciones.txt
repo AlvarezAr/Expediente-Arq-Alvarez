@@ -1,0 +1,5 @@
+Que principio viola		donde vive (clase y metodo)			por que es una violacion (1 a 2 lineas con TUS palabras).
+S-RESPOS UNICA			GestorDePedidos.ProcesarPedido()		Este metodo es una clase gorda ya que hace calcular descuentos,la persistencia en la bd, imprimime el comprobante y lo envia al correo
+O-Abierto/Cerrado		GestorDePedidos.ProcesarPedido()		Se detecto porque tiene muchos case en su switch, en la cual si aumenta el tipo cliente se llegaria a tocar dicha clase
+I-Segregacion de Interfaces	Class Cajero : IEmpleadoDeFarmacia 		la interfaz tienemetodos que no corresponden a su trabajo, esto conoido mentira de roles ya que tiene funciones como el Farmaceutico
+D-Inversion de dependencia	GestorDePedidos.ProcesarPedido()		Porque no mira hacia el futuro se estanca en el correo y en la BaseDeDatosMySql
