@@ -1,0 +1,7 @@
+3 un texto de 5 a 8 lineas diciendo QUE cambiaste y QUE principio te pidio cada cambio.
+
+(s) Las clases gestor de producto y venta fueron identificadas como clases goras en la cual se aplico el principio (S) para hacer a los       metodos clases individuales.
+(O) Se logro detectar 2 switch que cuando teniamos que agregar algo nuevo se tocaba la clase, en lo cual lo solucione aplicando una interface
+(L) En las herencias de mi caso donde un usuario puede ser un adm o cajero, ambos tenian que cumplir lo que el padre usuario prometia, en la cual se segmento roles los cuales ambos usurios pueden cumplir y en el hijo cajero no promete lo que no puede cumplir.
+(I) los contratos de los roles fueron segregados en su totalidad en la parte del cajero, en la cual se definieron sus interfaces
+(D) en aqui se aplico la dependencia inversa en la gestion de reportes, en la cual esta depende de la BD y por donde se notificara
