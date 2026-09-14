@@ -1,0 +1,5 @@
+JUSTIFICACION (Configuracion de tienda) 
+La conexión a la base de datos debe ser única para evitar abrir múltiples conexiones innecesarias, 
+lo que incrementa el consumo de recursos y puede afectar el rendimiento del sistema. Además, todos 
+los módulos necesitan acceder a la misma conexión para mantener consistencia en las operaciones realizadas.
+esión de Caja es incluso más representativa del dominio que una conexión a la base de datos.
