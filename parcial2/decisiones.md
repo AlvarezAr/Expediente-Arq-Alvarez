@@ -21,6 +21,7 @@ PORQUE LO APLICARIA: porque es el ideal cuando hablamos de un traductor en la fr
 PORQUE NO OTRO: es el mas indicado a conversiones ya que vienen con la instruccion que no es modificable, entoces tendriamos que aplicar un traductor para el cobro en bs dependiendo la tarifa a aplicarse al cliente.
 
 # P2.3 — SOLID - implementacion de P2.2
+Basado en mi implementacion el principio que rescata de solid seria la (O), Porque me permite añadir mas interesados sin modificar mi class AdministradorGimnacio, mas abierto a extenderse mediante mi interface de IInteresadoEnVencimiento de los modulos que quieran ser notificados del vencimiento de la suscripcion de la membresia.
 
 
 
